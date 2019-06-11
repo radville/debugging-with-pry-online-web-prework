@@ -49,7 +49,7 @@ Let's take a look. In this repository, you'll see a file called `pry_is_awesome.
 2. Install Pry on your computer by navigating to your home directory (`cd ~` in your terminal) and execute `gem install pry`. (again, no need to do this if you are working in the IDE)
 </div>
 
-3. Look at the code in `lib/pry_is_awesome.rb`
+3. Look at the code in `lpwdib/pry_is_awesome.rb`
 
 You should see the following code: 
 
